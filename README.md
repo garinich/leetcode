@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-06-16 | [Unique Paths II](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-16/unique-paths-ii.js) | 🟡 Medium | ✅ |
 | 2026-06-12 | [Binary Tree Inorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-12/binary-tree-inorder-traversal.js) | 🟢 Easy | ✅ |
 | 2026-06-12 | [Number of 1 Bits](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-12/number-of-1-bits.js) | 🟢 Easy | ✅ |
 | 2026-06-11 | [Is Subsequence](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-11/is-subsequence.js) | 🟢 Easy | ✅ |
