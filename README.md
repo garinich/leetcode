@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-06-17 | [Zigzag Conversion](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-17/zigzag-conversion.js) | 🟡 Medium | ✅ |
 | 2026-06-16 | [Sort Colors](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-16/sort-colors.js) | 🟡 Medium | ✅ |
 | 2026-06-16 | [Unique Paths II](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-16/unique-paths-ii.js) | 🟡 Medium | ✅ |
 | 2026-06-12 | [Binary Tree Inorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-12/binary-tree-inorder-traversal.js) | 🟢 Easy | ✅ |
