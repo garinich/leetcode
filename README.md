@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-06-18 | [Valid Phone Numbers](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-18/valid-phone-numbers.js) | 🟢 Easy | ✅ |
 | 2026-06-18 | [Power of Three](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-18/power-of-three.js) | 🟢 Easy | ✅ |
 | 2026-06-17 | [Zigzag Conversion](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-17/zigzag-conversion.js) | 🟡 Medium | ✅ |
 | 2026-06-16 | [Sort Colors](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-16/sort-colors.js) | 🟡 Medium | ✅ |
