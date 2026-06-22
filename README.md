@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-06-22 | [Edit Distance](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-22/edit-distance.js) | 🟡 Medium | ✅ |
 | 2026-06-19 | [Simplify Path](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-19/simplify-path.js) | 🟡 Medium | ✅ |
 | 2026-06-18 | [Valid Phone Numbers](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-18/valid-phone-numbers.js) | 🟢 Easy | ✅ |
 | 2026-06-18 | [Power of Three](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-18/power-of-three.js) | 🟢 Easy | ✅ |
