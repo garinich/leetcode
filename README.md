@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-06-23 | [Intersection of Two Linked Lists](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-23/intersection-of-two-linked-lists.js) | 🟢 Easy | ✅ |
 | 2026-06-23 | [Palindrome Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-23/palindrome-number.js) | 🟢 Easy | ✅ |
 | 2026-06-22 | [Edit Distance](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-22/edit-distance.js) | 🟡 Medium | ✅ |
 | 2026-06-19 | [Simplify Path](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-19/simplify-path.js) | 🟡 Medium | ✅ |
