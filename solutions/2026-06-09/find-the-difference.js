@@ -1,6 +1,6 @@
 /*
  * Find the Difference
- * Difficulty: Easy
+ * Difficulty: Easy 1
  * Date: 2026-06-09 | Attempts: 1
  * https://leetcode.com/problems/find-the-difference/
  *
