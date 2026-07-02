@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-02 | [Happy Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/happy-number.js) | 🟢 Easy | ✅ |
 | 2026-06-24 | [Intersection of Two Arrays](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-24/intersection-of-two-arrays.js) | 🟢 Easy | ✅ |
 | 2026-06-24 | [Customers Who Never Order](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-24/customers-who-never-order.js) | 🟢 Easy | ✅ |
 | 2026-06-23 | [Intersection of Two Linked Lists](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-23/intersection-of-two-linked-lists.js) | 🟢 Easy | ✅ |
