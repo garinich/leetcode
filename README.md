@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-02 | [3Sum Closest](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/3sum-closest.js) | 🟡 Medium | ✅ |
 | 2026-07-02 | [Contains Duplicate II](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/contains-duplicate-ii.js) | 🟢 Easy | ✅ |
 | 2026-07-02 | [Happy Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/happy-number.js) | 🟢 Easy | ✅ |
 | 2026-06-24 | [Intersection of Two Arrays](https://github.com/garinich/leetcode/blob/main/solutions/2026-06-24/intersection-of-two-arrays.js) | 🟢 Easy | ✅ |
