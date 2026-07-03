@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-03 | [Remove Duplicates from Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-03/remove-duplicates-from-sorted-array.js) | 🟢 Easy | ✅ |
 | 2026-07-03 | [Linked List Cycle](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-03/linked-list-cycle.js) | 🟢 Easy | ✅ |
 | 2026-07-02 | [3Sum Closest](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/3sum-closest.js) | 🟡 Medium | ✅ |
 | 2026-07-02 | [Contains Duplicate II](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-02/contains-duplicate-ii.js) | 🟢 Easy | ✅ |
