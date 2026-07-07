@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-07 | [Reverse Integer](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-07/reverse-integer.js) | 🟡 Medium | ✅ |
 | 2026-07-06 | [Compare Version Numbers](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-06/compare-version-numbers.js) | 🟡 Medium | ✅ |
 | 2026-07-03 | [Remove Duplicates from Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-03/remove-duplicates-from-sorted-array.js) | 🟢 Easy | ✅ |
 | 2026-07-03 | [Linked List Cycle](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-03/linked-list-cycle.js) | 🟢 Easy | ✅ |
