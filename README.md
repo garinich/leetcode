@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-09 | [Find the Index of the First Occurrence in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-09/find-the-index-of-the-first-occurrence-in-a-string.js) | 🟢 Easy | ✅ |
 | 2026-07-08 | [Remove Linked List Elements](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-08/remove-linked-list-elements.js) | 🟢 Easy | ✅ |
 | 2026-07-08 | [Missing Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-08/missing-number.js) | 🟢 Easy | ✅ |
 | 2026-07-07 | [Reverse Integer](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-07/reverse-integer.js) | 🟡 Medium | ✅ |
