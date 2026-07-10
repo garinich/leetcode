@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-10 | [Validate Binary Search Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-10/validate-binary-search-tree.js) | 🟡 Medium | ✅ |
 | 2026-07-09 | [Rising Temperature](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-09/rising-temperature.js) | 🟢 Easy | ✅ |
 | 2026-07-09 | [Find the Index of the First Occurrence in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-09/find-the-index-of-the-first-occurrence-in-a-string.js) | 🟢 Easy | ✅ |
 | 2026-07-08 | [Remove Linked List Elements](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-08/remove-linked-list-elements.js) | 🟢 Easy | ✅ |
