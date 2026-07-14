@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-14 | [Valid Palindrome](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-14/valid-palindrome.js) | 🟢 Easy | ✅ |
 | 2026-07-13 | [Find Peak Element](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-13/find-peak-element.js) | 🟡 Medium | ✅ |
 | 2026-07-10 | [Validate Binary Search Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-10/validate-binary-search-tree.js) | 🟡 Medium | ✅ |
 | 2026-07-09 | [Rising Temperature](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-09/rising-temperature.js) | 🟢 Easy | ✅ |
