@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-15 | [Fizz Buzz](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-15/fizz-buzz.js) | 🟢 Easy | ✅ |
 | 2026-07-15 | [Power of Two](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-15/power-of-two.js) | 🟢 Easy | ✅ |
 | 2026-07-14 | [Valid Anagram](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-14/valid-anagram.js) | 🟢 Easy | ✅ |
 | 2026-07-14 | [Valid Palindrome](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-14/valid-palindrome.js) | 🟢 Easy | ✅ |
