@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-20 | [Jump Game](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-20/jump-game.js) | 🟡 Medium | ✅ |
 | 2026-07-17 | [Unique Paths](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-17/unique-paths.js) | 🟡 Medium | ✅ |
 | 2026-07-16 | [Search in Rotated Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-16/search-in-rotated-sorted-array.js) | 🟡 Medium | ✅ |
 | 2026-07-15 | [Fizz Buzz](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-15/fizz-buzz.js) | 🟢 Easy | ✅ |
