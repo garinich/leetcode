@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-22 | [Best Time to Buy and Sell Stock](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-22/best-time-to-buy-and-sell-stock.js) | 🟢 Easy | ✅ |
 | 2026-07-22 | [Longest Palindrome](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-22/longest-palindrome.js) | 🟢 Easy | ✅ |
 | 2026-07-21 | [Subsets II](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-21/subsets-ii.js) | 🟡 Medium | ✅ |
 | 2026-07-20 | [Jump Game](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-20/jump-game.js) | 🟡 Medium | ✅ |
