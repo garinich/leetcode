@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-27 | [Contains Duplicate](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-27/contains-duplicate.js) | 🟢 Easy | ✅ |
 | 2026-07-27 | [Pascal's Triangle II](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-27/pascals-triangle-ii.js) | 🟢 Easy | ✅ |
 | 2026-07-24 | [Populating Next Right Pointers in Each Node](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-24/populating-next-right-pointers-in-each-node.js) | 🟡 Medium | ✅ |
 | 2026-07-23 | [Search in Rotated Sorted Array II](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-23/search-in-rotated-sorted-array-ii.js) | 🟡 Medium | ✅ |
