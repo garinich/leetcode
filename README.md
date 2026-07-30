@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-07-30 | [Add Digits](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-30/add-digits.js) | 🟢 Easy | ✅ |
 | 2026-07-29 | [Balanced Binary Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-29/balanced-binary-tree.js) | 🟢 Easy | ✅ |
 | 2026-07-29 | [Nim Game](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-29/nim-game.js) | 🟢 Easy | ✅ |
 | 2026-07-28 | [Combine Two Tables](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-28/combine-two-tables.js) | 🟢 Easy | ✅ |
