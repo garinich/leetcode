@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-03 | [Sqrt(x)](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-03/sqrtx.js) | 🟢 Easy | ✅ |
 | 2026-07-31 | [Longest Substring Without Repeating Characters](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-31/longest-substring-without-repeating-characters.js) | 🟡 Medium | ✅ |
 | 2026-07-30 | [Duplicate Emails](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-30/duplicate-emails.js) | 🟢 Easy | ✅ |
 | 2026-07-30 | [Add Digits](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-30/add-digits.js) | 🟢 Easy | ✅ |
