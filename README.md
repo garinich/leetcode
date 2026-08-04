@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-04 | [Insert Interval](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-04/insert-interval.js) | 🟡 Medium | ✅ |
 | 2026-08-03 | [Tenth Line](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-03/tenth-line.js) | 🟢 Easy | ✅ |
 | 2026-08-03 | [Sqrt(x)](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-03/sqrtx.js) | 🟢 Easy | ✅ |
 | 2026-07-31 | [Longest Substring Without Repeating Characters](https://github.com/garinich/leetcode/blob/main/solutions/2026-07-31/longest-substring-without-repeating-characters.js) | 🟡 Medium | ✅ |
