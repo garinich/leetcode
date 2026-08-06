@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-06 | [Two Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-06/two-sum.js) | 🟢 Easy | ✅ |
 | 2026-08-06 | [First Unique Character in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-06/first-unique-character-in-a-string.js) | 🟢 Easy | ✅ |
 | 2026-08-05 | [Gas Station](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-05/gas-station.js) | 🟡 Medium | ✅ |
 | 2026-08-04 | [Insert Interval](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-04/insert-interval.js) | 🟡 Medium | ✅ |
