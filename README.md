@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-07 | [Third Maximum Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-07/third-maximum-number.js) | 🟢 Easy | ✅ |
 | 2026-08-07 | [Valid Perfect Square](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-07/valid-perfect-square.js) | 🟢 Easy | ✅ |
 | 2026-08-06 | [Two Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-06/two-sum.js) | 🟢 Easy | ✅ |
 | 2026-08-06 | [First Unique Character in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-06/first-unique-character-in-a-string.js) | 🟢 Easy | ✅ |
