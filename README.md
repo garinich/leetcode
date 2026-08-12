@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-12 | [Populating Next Right Pointers in Each Node II](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-12/populating-next-right-pointers-in-each-node-ii.js) | 🟡 Medium | ✅ |
 | 2026-08-11 | [Divide Two Integers](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-11/divide-two-integers.js) | 🟡 Medium | ✅ |
 | 2026-08-10 | [String to Integer (atoi)](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-10/string-to-integer-atoi.js) | 🟡 Medium | ✅ |
 | 2026-08-07 | [Third Maximum Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-07/third-maximum-number.js) | 🟢 Easy | ✅ |
