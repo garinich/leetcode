@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-14 | [Excel Sheet Column Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-14/excel-sheet-column-number.js) | 🟢 Easy | ✅ |
 | 2026-08-14 | [Reverse Vowels of a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-14/reverse-vowels-of-a-string.js) | 🟢 Easy | ✅ |
 | 2026-08-13 | [Restore IP Addresses](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-13/restore-ip-addresses.js) | 🟡 Medium | ✅ |
 | 2026-08-12 | [Populating Next Right Pointers in Each Node II](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-12/populating-next-right-pointers-in-each-node-ii.js) | 🟡 Medium | ✅ |
