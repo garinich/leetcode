@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-17 | [Binary Tree Preorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-17/binary-tree-preorder-traversal.js) | 🟢 Easy | ✅ |
 | 2026-08-17 | [Length of Last Word](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-17/length-of-last-word.js) | 🟢 Easy | ✅ |
 | 2026-08-14 | [Excel Sheet Column Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-14/excel-sheet-column-number.js) | 🟢 Easy | ✅ |
 | 2026-08-14 | [Reverse Vowels of a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-14/reverse-vowels-of-a-string.js) | 🟢 Easy | ✅ |
