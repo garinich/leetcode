@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-20 | [Implement Stack using Queues](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-20/implement-stack-using-queues.js) | 🟢 Easy | ✅ |
 | 2026-08-20 | [Maximum Depth of Binary Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-20/maximum-depth-of-binary-tree.js) | 🟢 Easy | ✅ |
 | 2026-08-19 | [Implement Queue using Stacks](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-19/implement-queue-using-stacks.js) | 🟢 Easy | ✅ |
 | 2026-08-19 | [Same Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-19/same-tree.js) | 🟢 Easy | ✅ |
