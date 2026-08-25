@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-25 | [Power of Four](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-25/power-of-four.js) | 🟢 Easy | ✅ |
 | 2026-08-25 | [Summary Ranges](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-25/summary-ranges.js) | 🟢 Easy | ✅ |
 | 2026-08-24 | [Reverse Linked List II](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-24/reverse-linked-list-ii.js) | 🟡 Medium | ✅ |
 | 2026-08-21 | [Partition List](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-21/partition-list.js) | 🟡 Medium | ✅ |
