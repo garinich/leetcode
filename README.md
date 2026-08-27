@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-08-27 | [Insertion Sort List](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-27/insertion-sort-list.js) | 🟡 Medium | ✅ |
 | 2026-08-26 | [Container With Most Water](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-26/container-with-most-water.js) | 🟡 Medium | ✅ |
 | 2026-08-25 | [Power of Four](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-25/power-of-four.js) | 🟢 Easy | ✅ |
 | 2026-08-25 | [Summary Ranges](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-25/summary-ranges.js) | 🟢 Easy | ✅ |
