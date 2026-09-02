@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-02 | [Pascal's Triangle](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-02/pascals-triangle.js) | 🟢 Easy | ✅ |
 | 2026-09-01 | [Evaluate Reverse Polish Notation](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-01/evaluate-reverse-polish-notation.js) | 🟡 Medium | ✅ |
 | 2026-08-31 | [Minimum Depth of Binary Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-31/minimum-depth-of-binary-tree.js) | 🟢 Easy | ✅ |
 | 2026-08-31 | [Climbing Stairs](https://github.com/garinich/leetcode/blob/main/solutions/2026-08-31/climbing-stairs.js) | 🟢 Easy | ✅ |
