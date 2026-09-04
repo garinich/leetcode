@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-04 | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-04/construct-binary-tree-from-preorder-and-inorder-traversal.js) | 🟡 Medium | ✅ |
 | 2026-09-03 | [Longest Consecutive Sequence](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-03/longest-consecutive-sequence.js) | 🟡 Medium | ✅ |
 | 2026-09-02 | [Symmetric Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-02/symmetric-tree.js) | 🟢 Easy | ✅ |
 | 2026-09-02 | [Pascal's Triangle](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-02/pascals-triangle.js) | 🟢 Easy | ✅ |
