@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-09 | [Rotate Image](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-09/rotate-image.js) | 🟡 Medium | ✅ |
 | 2026-09-08 | [Surrounded Regions](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-08/surrounded-regions.js) | 🟡 Medium | ✅ |
 | 2026-09-07 | [Rotate List](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-07/rotate-list.js) | 🟡 Medium | ✅ |
 | 2026-09-04 | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-04/construct-binary-tree-from-preorder-and-inorder-traversal.js) | 🟡 Medium | ✅ |
