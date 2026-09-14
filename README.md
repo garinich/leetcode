@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-14 | [Fraction to Recurring Decimal](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-14/fraction-to-recurring-decimal.js) | 🟡 Medium | ✅ |
 | 2026-09-11 | [Triangle](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-11/triangle.js) | 🟡 Medium | ✅ |
 | 2026-09-10 | [Combination Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-10/combination-sum.js) | 🟡 Medium | ✅ |
 | 2026-09-09 | [Rotate Image](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-09/rotate-image.js) | 🟡 Medium | ✅ |
