@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-16 | [Move Zeroes](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-16/move-zeroes.js) | 🟢 Easy | ✅ |
 | 2026-09-16 | [Invert Binary Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-16/invert-binary-tree.js) | 🟢 Easy | ✅ |
 | 2026-09-15 | [Reverse String](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-15/reverse-string.js) | 🟢 Easy | ✅ |
 | 2026-09-15 | [Excel Sheet Column Title](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-15/excel-sheet-column-title.js) | 🟢 Easy | ✅ |
