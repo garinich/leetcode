@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-18 | [Linked List Cycle II](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-18/linked-list-cycle-ii.js) | 🟡 Medium | ✅ |
 | 2026-09-17 | [Reverse Bits](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-17/reverse-bits.js) | 🟢 Easy | ✅ |
 | 2026-09-17 | [Ugly Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-17/ugly-number.js) | 🟢 Easy | ✅ |
 | 2026-09-16 | [Move Zeroes](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-16/move-zeroes.js) | 🟢 Easy | ✅ |
