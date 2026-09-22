@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-22 | [Set Matrix Zeroes](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-22/set-matrix-zeroes.js) | 🟡 Medium | ✅ |
 | 2026-09-21 | [Ransom Note](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-21/ransom-note.js) | 🟢 Easy | ✅ |
 | 2026-09-21 | [Merge Two Sorted Lists](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-21/merge-two-sorted-lists.js) | 🟢 Easy | ✅ |
 | 2026-09-18 | [Linked List Cycle II](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-18/linked-list-cycle-ii.js) | 🟡 Medium | ✅ |
