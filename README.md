@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-23 | [Remove Duplicates from Sorted List](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-23/remove-duplicates-from-sorted-list.js) | 🟢 Easy | ✅ |
 | 2026-09-23 | [Binary Tree Paths](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-23/binary-tree-paths.js) | 🟢 Easy | ✅ |
 | 2026-09-22 | [Set Matrix Zeroes](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-22/set-matrix-zeroes.js) | 🟡 Medium | ✅ |
 | 2026-09-21 | [Ransom Note](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-21/ransom-note.js) | 🟢 Easy | ✅ |
