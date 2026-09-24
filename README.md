@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-24 | [Single Number](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-24/single-number.js) | 🟢 Easy | ✅ |
 | 2026-09-24 | [Palindrome Linked List](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-24/palindrome-linked-list.js) | 🟢 Easy | ✅ |
 | 2026-09-23 | [Remove Duplicates from Sorted List](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-23/remove-duplicates-from-sorted-list.js) | 🟢 Easy | ✅ |
 | 2026-09-23 | [Binary Tree Paths](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-23/binary-tree-paths.js) | 🟢 Easy | ✅ |
