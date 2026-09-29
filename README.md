@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-09-29 | [Subsets](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-29/subsets.js) | 🟡 Medium | ✅ |
 | 2026-09-28 | [Delete Duplicate Emails](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-28/delete-duplicate-emails.js) | 🟢 Easy | ✅ |
 | 2026-09-28 | [Valid Parentheses](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-28/valid-parentheses.js) | 🟢 Easy | ✅ |
 | 2026-09-25 | [Find First and Last Position of Element in Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-25/find-first-and-last-position-of-element-in-sorted-array.js) | 🟡 Medium | ✅ |
