@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-01 | [Min Stack](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-01/min-stack.js) | 🟡 Medium | ✅ |
 | 2026-09-30 | [Maximum Subarray](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-30/maximum-subarray.js) | 🟡 Medium | ✅ |
 | 2026-09-29 | [Subsets](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-29/subsets.js) | 🟡 Medium | ✅ |
 | 2026-09-28 | [Delete Duplicate Emails](https://github.com/garinich/leetcode/blob/main/solutions/2026-09-28/delete-duplicate-emails.js) | 🟢 Easy | ✅ |
