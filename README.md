@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-06 | [Permutations II](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-06/permutations-ii.js) | 🟡 Medium | ✅ |
 | 2026-10-05 | [Interleaving String](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-05/interleaving-string.js) | 🟡 Medium | ✅ |
 | 2026-10-02 | [4Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-02/4sum.js) | 🟡 Medium | ✅ |
 | 2026-10-01 | [Min Stack](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-01/min-stack.js) | 🟡 Medium | ✅ |
