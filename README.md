@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-07 | [Binary Tree Postorder Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-07/binary-tree-postorder-traversal.js) | 🟢 Easy | ✅ |
 | 2026-10-07 | [Binary Watch](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-07/binary-watch.js) | 🟢 Easy | ✅ |
 | 2026-10-06 | [Permutations II](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-06/permutations-ii.js) | 🟡 Medium | ✅ |
 | 2026-10-05 | [Interleaving String](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-05/interleaving-string.js) | 🟡 Medium | ✅ |
