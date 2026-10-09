@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-09 | [Guess Number Higher or Lower](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-09/guess-number-higher-or-lower.js) | 🟢 Easy | ✅ |
 | 2026-10-09 | [Path Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-09/path-sum.js) | 🟢 Easy | ✅ |
 | 2026-10-08 | [Convert a Number to Hexadecimal](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-08/convert-a-number-to-hexadecimal.js) | 🟢 Easy | ✅ |
 | 2026-10-08 | [Plus One](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-08/plus-one.js) | 🟢 Easy | ✅ |
