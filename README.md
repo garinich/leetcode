@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-15 | [Reverse Words in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-15/reverse-words-in-a-string.js) | 🟡 Medium | ✅ |
 | 2026-10-14 | [Merge Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-14/merge-sorted-array.js) | 🟢 Easy | ✅ |
 | 2026-10-14 | [Sum of Left Leaves](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-14/sum-of-left-leaves.js) | 🟢 Easy | ✅ |
 | 2026-10-13 | [Find Minimum in Rotated Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-13/find-minimum-in-rotated-sorted-array.js) | 🟡 Medium | ✅ |
