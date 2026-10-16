@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-16 | [Majority Element](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-16/majority-element.js) | 🟢 Easy | ✅ |
 | 2026-10-16 | [First Bad Version](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-16/first-bad-version.js) | 🟢 Easy | ✅ |
 | 2026-10-15 | [Reverse Words in a String](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-15/reverse-words-in-a-string.js) | 🟡 Medium | ✅ |
 | 2026-10-14 | [Merge Sorted Array](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-14/merge-sorted-array.js) | 🟢 Easy | ✅ |
