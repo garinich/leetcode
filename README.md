@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-19 | [Intersection of Two Arrays II](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-19/intersection-of-two-arrays-ii.js) | 🟢 Easy | ✅ |
 | 2026-10-19 | [Longest Common Prefix](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-19/longest-common-prefix.js) | 🟢 Easy | ✅ |
 | 2026-10-16 | [Majority Element](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-16/majority-element.js) | 🟢 Easy | ✅ |
 | 2026-10-16 | [First Bad Version](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-16/first-bad-version.js) | 🟢 Easy | ✅ |
