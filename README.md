@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-22 | [Counting Bits](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-22/counting-bits.js) | 🟢 Easy | ✅ |
 | 2026-10-21 | [Remove Duplicates from Sorted Array II](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-21/remove-duplicates-from-sorted-array-ii.js) | 🟡 Medium | ✅ |
 | 2026-10-20 | [Valid Sudoku](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-20/valid-sudoku.js) | 🟡 Medium | ✅ |
 | 2026-10-19 | [Intersection of Two Arrays II](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-19/intersection-of-two-arrays-ii.js) | 🟢 Easy | ✅ |
