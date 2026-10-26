@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-26 | [Isomorphic Strings](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-26/isomorphic-strings.js) | 🟢 Easy | ✅ |
 | 2026-10-23 | [Gray Code](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-23/gray-code.js) | 🟡 Medium | ✅ |
 | 2026-10-22 | [Employees Earning More Than Their Managers](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-22/employees-earning-more-than-their-managers.js) | 🟢 Easy | ✅ |
 | 2026-10-22 | [Counting Bits](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-22/counting-bits.js) | 🟢 Easy | ✅ |
