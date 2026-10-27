@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-27 | [Convert Sorted Array to Binary Search Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-27/convert-sorted-array-to-binary-search-tree.js) | 🟢 Easy | ✅ |
 | 2026-10-26 | [Remove Element](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-26/remove-element.js) | 🟢 Easy | ✅ |
 | 2026-10-26 | [Isomorphic Strings](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-26/isomorphic-strings.js) | 🟢 Easy | ✅ |
 | 2026-10-23 | [Gray Code](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-23/gray-code.js) | 🟡 Medium | ✅ |
