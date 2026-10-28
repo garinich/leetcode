@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-10-28 | [Sort List](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-28/sort-list.js) | 🟡 Medium | ✅ |
 | 2026-10-27 | [Reverse Linked List](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-27/reverse-linked-list.js) | 🟢 Easy | ✅ |
 | 2026-10-27 | [Convert Sorted Array to Binary Search Tree](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-27/convert-sorted-array-to-binary-search-tree.js) | 🟢 Easy | ✅ |
 | 2026-10-26 | [Remove Element](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-26/remove-element.js) | 🟢 Easy | ✅ |
