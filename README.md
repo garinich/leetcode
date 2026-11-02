@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-11-02 | [Word Pattern](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-02/word-pattern.js) | 🟢 Easy | ✅ |
 | 2026-10-30 | [Integer to Roman](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-30/integer-to-roman.js) | 🟡 Medium | ✅ |
 | 2026-10-29 | [Clone Graph](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-29/clone-graph.js) | 🟡 Medium | ✅ |
 | 2026-10-28 | [Sort List](https://github.com/garinich/leetcode/blob/main/solutions/2026-10-28/sort-list.js) | 🟡 Medium | ✅ |
