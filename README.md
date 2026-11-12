@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-11-12 | [3Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-12/3sum.js) | 🟡 Medium | ✅ |
 | 2026-11-11 | [Copy List with Random Pointer](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-11/copy-list-with-random-pointer.js) | 🟡 Medium | ✅ |
 | 2026-11-09 | [Single Number II](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-09/single-number-ii.js) | 🟡 Medium | ✅ |
 | 2026-11-03 | [Binary Tree Zigzag Level Order Traversal](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-03/binary-tree-zigzag-level-order-traversal.js) | 🟡 Medium | ✅ |
