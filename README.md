@@ -3,6 +3,7 @@
 
 | Date | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+| 2026-11-24 | [Longest Palindromic Substring](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-24/longest-palindromic-substring.js) | 🟡 Medium | ✅ |
 | 2026-11-20 | [Next Permutation](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-20/next-permutation.js) | 🟡 Medium | ✅ |
 | 2026-11-19 | [Minimum Path Sum](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-19/minimum-path-sum.js) | 🟡 Medium | ✅ |
 | 2026-11-16 | [Merge Intervals](https://github.com/garinich/leetcode/blob/main/solutions/2026-11-16/merge-intervals.js) | 🟡 Medium | ✅ |
